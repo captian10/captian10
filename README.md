@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/moaz elhwarey](https://www.linkedin.com/in/moazelhwarey/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaz elhwarey" height="30" width="40" /></a>
-<a href="[https://fb.com/moaz abo ghallab elhwarey](https://www.facebook.com/moaz.abo.ghallab.elhwarey.2025)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moaz abo ghallab elhwarey" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moazelhwarey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moaz elhwarey" height="30" width="40" /></a>
+<a href="https://www.facebook.com/moaz.abo.ghallab.elhwarey.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moaz abo ghallab elhwarey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
