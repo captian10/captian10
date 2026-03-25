@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moaz Elhwarey</h1>
+<h1 align="center">Hi, I'm Moaz Elhwarey</h1>
 <h3 align="center">Full-Stack Mobile Developer (React Native) | DRAX-Dev</h3>
 <p align="center">Building modern, scalable applications with clean UI & real-time features from Farshut, Egypt 🇪🇬</p>
 
@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/moaz.abo.ghallab.elhwarey.2025" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:captianmoaz2011@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
