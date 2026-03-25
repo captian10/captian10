@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Moaz Elhwarey</h1>
-<h3 align="center">Full-Stack Mobile Developer (React Native) | DRAX-Dev</h3>
-<p align="center">Building modern, scalable applications with clean UI & real-time features from Farshut, Egypt 🇪🇬</p>
+<h3 align="center">Full-Stack Mobile Developer (React Native)</h3>
+<p align="center">Building modern, scalable applications with clean UI & real-time features</p>
 
 <p align="center">
   <a href="https://github.com/captian10">
