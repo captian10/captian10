@@ -22,7 +22,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🔭 I’m currently building robust mobile applications like SemsarApp and ElbashaFoodApp.
 - 🌱 I’m deeply focused on the React Native ecosystem, utilizing **Expo** and **Supabase** for seamless full-stack development.
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
