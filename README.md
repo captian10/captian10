@@ -24,10 +24,10 @@
 
 ### About Me
 
-- 🔭 I’m currently building robust mobile applications like SemsarApp and ElbashaFoodApp.
-- 🌱 I’m deeply focused on the React Native ecosystem, utilizing **Expo** and **Supabase** for seamless full-stack development.
-- 💬 Ask me about: **React Native, TypeScript, Node.js, and Backend-as-a-Service integration.**
-- ⚡ Fun fact: When I'm stepping away from the keyboard, I'm probably playing League of Legends.
+- I’m currently building robust mobile applications like SemsarApp and ElbashaFoodApp.
+- I’m deeply focused on the React Native ecosystem, utilizing **Expo** and **Supabase** for seamless full-stack development.
+- Ask me about: **React Native, TypeScript, Node.js, and Backend-as-a-Service integration.**
+- Fun fact: When I'm stepping away from the keyboard, I'm probably playing League of Legends.
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=captian10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
