@@ -61,11 +61,6 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=captian10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=captian10&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="150" alt="Top Languages" />
-</div>
-
 <br>
 
 <div align="center">
